@@ -18,10 +18,9 @@ const data = {
     "cpuUsage": process.cpuUsage(),
   }
 }
+// const dataSystem = JSON.stringify(data)
 fs.writeFileSync(
-  "sys_data.json",
-  JSON.stringify(data)
-);
+  "sys_data.json", JSON.stringify(data, null, 2));
 
 const file = fs.readFileSync("sys_data.json", { encoding: "utf-8", flag: "r" });
 const fileSystem = JSON.parse(file);

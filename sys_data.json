@@ -1,1 +1,59 @@
-{"os":{"homeDirect":"C:\\Users\\Shubrotto Kumar","platform":"win32","cpuDetails":[{"model":"Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz","speed":2197,"times":{"user":609750,"nice":0,"sys":324875,"idle":7411750,"irq":31359}},{"model":"Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz","speed":2197,"times":{"user":588984,"nice":0,"sys":246859,"idle":7510343,"irq":5734}},{"model":"Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz","speed":2197,"times":{"user":704671,"nice":0,"sys":264875,"idle":7376640,"irq":3218}},{"model":"Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz","speed":2197,"times":{"user":609500,"nice":0,"sys":236562,"idle":7500125,"irq":2531}}]},"process":{"version":"v20.11.1","cpuUsage":{"user":62000,"system":46000}}}
+{
+  "os": {
+    "homeDirect": "C:\\Users\\Shubrotto Kumar",
+    "platform": "win32",
+    "cpuDetails": [
+      {
+        "model": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "speed": 2197,
+        "times": {
+          "user": 160718,
+          "nice": 0,
+          "sys": 109265,
+          "idle": 509187,
+          "irq": 8312
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "speed": 2197,
+        "times": {
+          "user": 168609,
+          "nice": 0,
+          "sys": 95656,
+          "idle": 514718,
+          "irq": 1593
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "speed": 2197,
+        "times": {
+          "user": 186656,
+          "nice": 0,
+          "sys": 99453,
+          "idle": 492875,
+          "irq": 859
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "speed": 2197,
+        "times": {
+          "user": 179203,
+          "nice": 0,
+          "sys": 87218,
+          "idle": 512562,
+          "irq": 640
+        }
+      }
+    ]
+  },
+  "process": {
+    "version": "v20.11.1",
+    "cpuUsage": {
+      "user": 46000,
+      "system": 31000
+    }
+  }
+}
